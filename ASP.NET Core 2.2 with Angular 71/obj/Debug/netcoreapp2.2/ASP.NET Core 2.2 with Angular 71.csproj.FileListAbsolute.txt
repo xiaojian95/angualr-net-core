@@ -1,0 +1,24 @@
+C:\Users\Jesh\Desktop\ASP.NET Core 2.2 with Angular 71\ASP.NET Core 2.2 with Angular 71\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.deps.json
+C:\Users\Jesh\Desktop\ASP.NET Core 2.2 with Angular 71\ASP.NET Core 2.2 with Angular 71\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.runtimeconfig.json
+C:\Users\Jesh\Desktop\ASP.NET Core 2.2 with Angular 71\ASP.NET Core 2.2 with Angular 71\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.runtimeconfig.dev.json
+C:\Users\Jesh\Desktop\ASP.NET Core 2.2 with Angular 71\ASP.NET Core 2.2 with Angular 71\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.dll
+C:\Users\Jesh\Desktop\ASP.NET Core 2.2 with Angular 71\ASP.NET Core 2.2 with Angular 71\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.pdb
+C:\Users\Jesh\Desktop\ASP.NET Core 2.2 with Angular 71\ASP.NET Core 2.2 with Angular 71\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.Views.dll
+C:\Users\Jesh\Desktop\ASP.NET Core 2.2 with Angular 71\ASP.NET Core 2.2 with Angular 71\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.Views.pdb
+C:\Users\Jesh\Desktop\ASP.NET Core 2.2 with Angular 71\ASP.NET Core 2.2 with Angular 71\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 71.csprojAssemblyReference.cache
+C:\Users\Jesh\Desktop\ASP.NET Core 2.2 with Angular 71\ASP.NET Core 2.2 with Angular 71\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 71.csproj.CoreCompileInputs.cache
+C:\Users\Jesh\Desktop\ASP.NET Core 2.2 with Angular 71\ASP.NET Core 2.2 with Angular 71\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 71.RazorAssemblyInfo.cache
+C:\Users\Jesh\Desktop\ASP.NET Core 2.2 with Angular 71\ASP.NET Core 2.2 with Angular 71\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 71.RazorAssemblyInfo.cs
+C:\Users\Jesh\Desktop\ASP.NET Core 2.2 with Angular 71\ASP.NET Core 2.2 with Angular 71\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 71.AssemblyInfoInputs.cache
+C:\Users\Jesh\Desktop\ASP.NET Core 2.2 with Angular 71\ASP.NET Core 2.2 with Angular 71\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 71.AssemblyInfo.cs
+C:\Users\Jesh\Desktop\ASP.NET Core 2.2 with Angular 71\ASP.NET Core 2.2 with Angular 71\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.TagHelpers.input.cache
+C:\Users\Jesh\Desktop\ASP.NET Core 2.2 with Angular 71\ASP.NET Core 2.2 with Angular 71\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.TagHelpers.output.cache
+C:\Users\Jesh\Desktop\ASP.NET Core 2.2 with Angular 71\ASP.NET Core 2.2 with Angular 71\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 71.RazorCoreGenerate.cache
+C:\Users\Jesh\Desktop\ASP.NET Core 2.2 with Angular 71\ASP.NET Core 2.2 with Angular 71\obj\Debug\netcoreapp2.2\Razor\Pages\Error.g.cshtml.cs
+C:\Users\Jesh\Desktop\ASP.NET Core 2.2 with Angular 71\ASP.NET Core 2.2 with Angular 71\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\Jesh\Desktop\ASP.NET Core 2.2 with Angular 71\ASP.NET Core 2.2 with Angular 71\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 71.RazorTargetAssemblyInfo.cache
+C:\Users\Jesh\Desktop\ASP.NET Core 2.2 with Angular 71\ASP.NET Core 2.2 with Angular 71\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 71.RazorTargetAssemblyInfo.cs
+C:\Users\Jesh\Desktop\ASP.NET Core 2.2 with Angular 71\ASP.NET Core 2.2 with Angular 71\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.Views.pdb
+C:\Users\Jesh\Desktop\ASP.NET Core 2.2 with Angular 71\ASP.NET Core 2.2 with Angular 71\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.dll
+C:\Users\Jesh\Desktop\ASP.NET Core 2.2 with Angular 71\ASP.NET Core 2.2 with Angular 71\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.pdb
+C:\Users\Jesh\Desktop\ASP.NET Core 2.2 with Angular 71\ASP.NET Core 2.2 with Angular 71\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 71.csproj.CopyComplete
